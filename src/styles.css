@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+.main-bg{
+    background-color: #2C3E50;
+}
+
+.second-bg{
+    background-color: #1ABC9C;
+}
+
+
+.line-white{
+    background-color: white;
+    width: 80px;
+    height: 5px;
+ 
+ }
+
+ .line{
+    background-color: #2C3E50;
+    width: 80px;
+    height: 5px;
+ 
+ }
+ 

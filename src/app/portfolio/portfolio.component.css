@@ -1,0 +1,27 @@
+.portfolio{
+   
+    background-color: white;
+    margin-top: 100px;
+    padding-top: 40px;
+}
+
+ h2,i{
+    color: #2C3E50;
+ }
+
+ .cover{
+    background-color: #1ABC9C;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: all 0.8s;
+    
+ }
+
+ .inner:hover .cover{
+    opacity: 0.8;
+ }
+

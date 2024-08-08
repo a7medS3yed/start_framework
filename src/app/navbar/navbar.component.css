@@ -1,0 +1,27 @@
+
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: white;
+  }
+.navbar-brand:focus, .navbar-brand:hover {
+    color:white;
+  }
+
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+}
